@@ -2,6 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Tsruda_)
 [![Qiita](https://img.shields.io/badge/-Qiita-55c500?&style=flat-square&logo=&logoColor=white)](https://qiita.com/Tsruda)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-9d5b8b?&style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/Tsruda)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsruda&count_private=true&show_icons=true&hide=prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsruda&layout=compact)](https://github.com/Tsruda/github-readme-stats)
